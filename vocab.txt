@@ -489,7 +489,7 @@ clerigo		,	,cleric			,n,P
 coberta		,	,cover			,n,P
 cobertura	,	,covering		,n,P
 cobiiçar	,	,to.covet		,v,cobiçar P
-cobrar		,	,to.collect		,v,P
+cobrar		,	,to.collect/recover	,v,P
 cobrir		,	,to.cover		,v,P
 cofonder	,	,to.humiliate/confound	,v,confundir P
 cogula		,	,cowl			,n,P
