@@ -1334,7 +1334,7 @@ loam		,loan
 loar		,	,to.praise		,v,G
 lobo		,	,wolf			,n,P
 logar		,	,place			,n,lugar P
-logo		,	,at.once/soon		,,P
+logo		,	,at.once/soon/then	,,P
 loguo		,logo				,,logu` before soft vowel
 lomba		,	,hill			,n,P
 longe		,	,far			,,P
@@ -2532,3 +2532,5 @@ jaspe		,	,jasper			,n,P
 engastõar	,	,to.embed		,v,MG de engastar
 nemigalla	,	,nothing		,,MG
 dessi		,des-i
+pousada		,	,abode			,n,P
+tardada		,	,delay			,n,P
