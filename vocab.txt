@@ -494,7 +494,7 @@ cobrir		,	,to.cover		,v,P
 cofonder	,	,to.humiliate/confound	,v,confundir P
 cogula		,	,cowl			,n,P
 coidado		,	,care/imagined		,n,cuidado P
-coita		,	,pain/care		,n,do Cast. cuita
+coita		,	,pain/care/grief	,n,do Cast. cuita
 coitado		,	,wretched/unhappy/unfortunate,a,P
 coitar		,	,pained			,v,P
 coitosos	,	,most.wretched		,,coita 
@@ -1389,7 +1389,7 @@ mandadeiro	,	,messenger		,n,P
 mandado		,	,errand			,n,P
 mandamento	,	,order/commandment	,n,P
 mandar		,	,to.command/order	,v,P
-maneira		,	,manner			,n,P
+maneira		,	,manner/way		,n,P
 maneiro		,	,handy/portable		,a,P
 manino		,	,barren			,a,maninha P
 manjar		,	,custard/delicacy	,n,P
@@ -1698,7 +1698,7 @@ para		,	,for/towards
 parada		,	,parade			,n,P
 paraiso		,	,paradise		,n,paraiso
 paralitico	,	,paralyzed.one		,n,P
-parar		,	,to.stop		,v,P
+parar		,	,to.stop/prepare	,v,P
 paravla		,palavra
 paravoa		,palavra 
 paravra		,palavra
